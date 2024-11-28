@@ -4,7 +4,7 @@
  */
 module.exports = {
   "appName": "友好盲道地图",
-  "envID": "",
+  "envID": "wx-cloud-7gq2y7aaa458c4cf",
   "mapSubKey": "",
   "center_longitude": 113.942304,
   "center_latitude": 22.529544,

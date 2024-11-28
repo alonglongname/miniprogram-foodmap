@@ -1,7 +1,7 @@
 const cloud = require('wx-server-sdk')
 cloud.init({
   traceUser: true,
-  env: "map-4g0ciu1x80002ab0"
+  env: "wx-cloud-7gq2y7aaa458c4cf"
 })
 const db = cloud.database()
 const MAX_LIMIT = 100

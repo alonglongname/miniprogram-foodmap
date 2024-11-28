@@ -42,10 +42,10 @@
     ],
     "minifyWXSS": true
   },
-  "appid": "wx9e77ae37861c73ec",
+  "appid": "wx36b388b143ecb200",
   "projectname": "meishitujian",
   "libVersion": "2.15.0",
-  "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate/",
   "condition": {
     "search": {
       "list": []
@@ -130,5 +130,15 @@
         }
       ]
     }
+  },
+  "compileType": "miniprogram",
+  "srcMiniprogramRoot": "miniprogram/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
   }
 }
